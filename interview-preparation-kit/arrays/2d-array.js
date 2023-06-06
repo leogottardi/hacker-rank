@@ -1,3 +1,6 @@
+const MAX_LINE = 3;
+const MAX_COLUMN = 3;
+
 function createHourglasses(arr) {
   const newArray = [];
   for (let i = 0; i <= MAX_LINE; i++) {
